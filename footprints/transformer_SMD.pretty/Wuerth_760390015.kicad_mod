@@ -41,7 +41,7 @@
       )
     )
   )
-  (model "E:/KiCAD/kicad-library/3D_models/250-1109 (rev1).STEP"
+  (model "${KIPRJMOD}/kicad-library/3D_models/250-1109 (rev1).STEP"
     (offset (xyz 5 -3.35 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
